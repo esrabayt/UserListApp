@@ -41,6 +41,7 @@ dependencies {
 
     implementation 'androidx.appcompat:appcompat:1.5.0'
     implementation 'com.google.android.material:material:1.6.1'
+    implementation 'androidx.swiperefreshlayout:swiperefreshlayout:1.1.0'
 
     // Ktx
     implementation 'androidx.core:core-ktx:1.8.0'
